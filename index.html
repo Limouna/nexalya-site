@@ -63,6 +63,24 @@
         gtag('config', 'G-1GRWNE16EQ');
         gtag('config', 'AW-17990816930');
     </script>
+    <!-- Event snippet for Submit lead form conversion page -->
+    <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-17990816930/MVP6CPiwm4UcEKKp2IJD',
+          'value': 1.0,
+          'currency': 'MAD',
+          'event_callback': callback
+      });
+      return false;
+    }
+    </script>
+
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -1684,6 +1702,7 @@
             emailjs.sendForm('service_vlj5dco', 'template_6898dyg', e.target)
                 .then(() => {
                     // Success
+                    gtag_report_conversion();
                     btn.textContent = currentLang === 'en' ? 'Message Sent! ✓' : 'Message Envoyé! ✓';
                     btn.style.background = 'linear-gradient(135deg, #14b8a6 0%, #10b981 100%)';
                     btn.style.opacity = '1';
