@@ -1541,6 +1541,22 @@
                             </div>
 
                             <div class="form-group">
+                                <label data-en="Phone (optional)" data-fr="Téléphone (optionnel)">Phone (optional)</label>
+                                <input type="tel" name="phone" id="phone-input"
+                                    data-placeholder-en="Your phone number"
+                                    data-placeholder-fr="Votre numéro de téléphone"
+                                    placeholder="Your phone number">
+                            </div>
+
+                            <div class="form-group">
+                                <label data-en="Company (optional)" data-fr="Entreprise (optionnel)">Company (optional)</label>
+                                <input type="text" name="company" id="company-input"
+                                    data-placeholder-en="Your company name"
+                                    data-placeholder-fr="Nom de votre entreprise"
+                                    placeholder="Your company name">
+                            </div>
+
+                            <div class="form-group">
                                 <label data-en="Message" data-fr="Message">Message</label>
                                 <textarea name="message" id="message-input"
                                     data-placeholder-en="Tell us about your project..."
@@ -1702,7 +1718,7 @@
             emailjs.sendForm('service_vlj5dco', 'template_6898dyg', e.target)
                 .then(() => {
                     // Success
-                    gtag_report_conversion();
+                    gtag_report_conversion('/thank-you?lang=' + currentLang);
                     btn.textContent = currentLang === 'en' ? 'Message Sent! ✓' : 'Message Envoyé! ✓';
                     btn.style.background = 'linear-gradient(135deg, #14b8a6 0%, #10b981 100%)';
                     btn.style.opacity = '1';
