@@ -1,0 +1,40 @@
+	# Nexalya
+
+> Agence digitale B2B basée à Casablanca et Rabat, Maroc. Nexalya accompagne les PME marocaines dans leur transformation digitale en proposant des solutions sur mesure : développement web, applications mobiles, web apps & CRM, branding & UX/UI, et implémentation Odoo.
+
+Nexalya est une agence spécialisée dans le développement de solutions digitales personnalisées pour les entreprises marocaines. Contrairement aux solutions génériques, chaque projet est conçu sur mesure pour répondre aux besoins spécifiques du client. L'agence travaille principalement avec des PME au Maroc et propose un accompagnement complet, de la conception à la livraison.
+
+## Services
+
+- [Sites Web professionnels](https://nexalya.co/#services) — Conception et développement de sites web sur mesure, performants et optimisés pour les moteurs de recherche.
+- [Applications Mobiles](https://nexalya.co/#services) — Développement d'applications iOS et Android pour digitaliser les processus métier.
+- [Web Apps & CRM](https://nexalya.co/#services) — Outils internes, tableaux de bord, systèmes de gestion et CRM adaptés aux flux de travail de l'entreprise.
+- [Branding & UX/UI Design](https://nexalya.co/#services) — Identité visuelle, charte graphique et conception d'interfaces utilisateur modernes.
+- [Implémentation Odoo](https://nexalya.co/#services) — Déploiement et personnalisation de l'ERP open-source Odoo pour la gestion d'entreprise.
+- [Sites WordPress](https://nexalya.co/#services) — Création et personnalisation de sites WordPress professionnels, avec thèmes sur mesure et extensions métier.
+- [Boutiques Shopify](https://nexalya.co/#services) — Mise en place de boutiques e-commerce Shopify, intégration des moyens de paiement locaux et optimisation des conversions.
+
+## À propos
+
+Nexalya est fondée sur le principe que les PME marocaines méritent des solutions digitales de qualité, sans compromis. L'agence combine expertise technique et compréhension du tissu économique local pour livrer des projets qui créent une vraie valeur ajoutée.
+
+- Localisation : Casablanca & Rabat, Maroc
+- Clientèle cible : PME marocaines (B2B)
+- Modèle : Solutions sur mesure, vente unique (pas de licence récurrente)
+- Langues de travail : Français, Arabe, Anglais
+
+## Réalisations
+
+- Système de livraison restaurant (application client + livreur + panneau admin)
+- Automatisation de documents export (réduction du temps de traitement de 70 %)
+- Outils internes sur mesure pour PME (tableaux de bord, planification, automatisation)
+
+## Technologies utilisées
+
+React, React Native, Angular, Node.js, Spring Boot, MySQL, Firebase, AWS, Odoo, WordPress, Shopify
+
+## Contact
+
+- Site web : https://nexalya.co
+- Email : contact@nexalya.co
+- Localisation : Casablanca & Rabat, Maroc
