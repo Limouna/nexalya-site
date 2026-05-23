@@ -6,9 +6,9 @@ Nexalya est une agence spécialisée dans le développement de solutions digital
 
 ## Services
 
-- [Création de site web](https://nexalya.co/#services) — Conception et développement de sites web sur mesure, performants et optimisés pour les moteurs de recherche.
-- [Application mobile](https://nexalya.co/#services) — Développement d'applications iOS et Android pour digitaliser les processus métier et offrir une expérience mobile native.
-- [Logiciel sur mesure](https://nexalya.co/#services) — Web apps internes, tableaux de bord, CRM et outils métier développés sur mesure pour les flux de travail spécifiques de l'entreprise.
+- [Création de site web](https://nexalya.co/creation-site-web/) — Conception et développement de sites web sur mesure, performants et optimisés pour les moteurs de recherche.
+- [Application mobile](https://nexalya.co/application-mobile/) — Développement d'applications iOS et Android pour digitaliser les processus métier et offrir une expérience mobile native.
+- [Logiciel sur mesure](https://nexalya.co/developpement-logiciel-sur-mesure/) — Web apps internes, tableaux de bord, CRM et outils métier développés sur mesure pour les flux de travail spécifiques de l'entreprise.
 - [Intégration Odoo](https://nexalya.co/integration-odoo/) — Déploiement, paramétrage et formation Odoo pour PME : ventes, achats, stock, comptabilité, RH. ERP open-source de référence, configuré pour le contexte francophone.
 - [Création de site Shopify](https://nexalya.co/creation-site-shopify/) — Mise en place de boutiques e-commerce Shopify avec thème personnalisé, paiements CMI et Stripe, logistique et formation. Migration depuis WooCommerce ou PrestaShop sur demande.
 - [Consultant Notion](https://nexalya.co/consultant-notion/) — Architecture, déploiement et formation Notion : wiki d'entreprise, gestion de projet, CRM léger et bases de données reliées pour structurer les opérations sans développement.
